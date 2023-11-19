@@ -51,7 +51,8 @@ h1{
 .caja-1{
     border: 1px solid gray;
     margin: 10px;
-    padding: 20px;    
+    padding: 20px;  
+    cursor: pointer;  
 
 }
 
@@ -65,4 +66,7 @@ h1{
     
     color: blue;
 }
-.caja-2
+.caja-1:hover{
+    color:blue;
+    font-size: 50px;
+}
